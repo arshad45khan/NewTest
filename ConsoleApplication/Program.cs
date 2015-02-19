@@ -18,7 +18,6 @@ namespace ConsoleApplication
                 //if (str1[i].Contains(".aspx"))
                 //    str1[i].Remove();
                 str = string.Empty;
-
             }
         }
     }
